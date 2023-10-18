@@ -22,3 +22,11 @@ Sound.js takes text as input and converts it into sound that is saved to your de
 imageClassifierFrontEnd.js is a short code snippet that allows your front end to call the Amazon API Gateway end point, which is configured to call a Lambda function (imageClassifier.py) that sends a base64 string encoded image to the SageMaker endpoint for inference. It returns a predicted image label, which can be one of these 3 [unclassified, up, down] to the calling Lambda function, which in turn gets sent back to API Gateway and finally to the front end.
 
 
+# how to create and deploy API Gateway end points
+Content will be added here in due time.
+
+# how to deploy SageMaker JumpStart LLM and obtain endpoint for live inference
+Content will be added here in due time.
+
+
+
