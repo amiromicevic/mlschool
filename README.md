@@ -1,7 +1,7 @@
 # mlschool
 
 
-Reference material from MLSchool presentation.
+Reference material from MLSchool presentation. This is currently work in progress and more material will be added here in due time.
 
 The following lambda files represent simple backend functionality that support the features presented on the demo at ML School episode on Twitch.
 
